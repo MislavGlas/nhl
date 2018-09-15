@@ -1,0 +1,1 @@
+Web aplikacija koja prikazuje podatke (u ovom slučaju članove NHL-a) iz baze pomoću Entity Framework-a. Oni se mogu kreirati, editirati i brisati. Podaci su prikazani tablično.
